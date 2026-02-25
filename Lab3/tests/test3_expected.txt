@@ -1,0 +1,8 @@
+space_station> space_station> space_station> space_station> space_station> 18 MaintenanceBots
+Straight: 9.953703703703704%
+Right: 39.583333333333336%
+Back: 13.657407407407407%
+Left: 36.80555555555556%
+space_station> 279 PowerCells
+Average Energy: 103.76344086021506
+space_station> 

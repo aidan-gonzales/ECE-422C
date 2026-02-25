@@ -1,0 +1,12 @@
+       Welcome to Shogun's Challenge!
+       ------------------------------
+
+Nobunaga starts with health: 50 speed: 100 attack: 25
+
+Chamber: Dojo. Nobunaga encounters a Training Dummy
+    Training Dummy - health: 10 speed: 10 attack: 1 speed damage: 0
+Nobunaga attacks Training Dummy, causing 25 damage.
+Training Dummy is defeated!
+Nobunaga finds Wooden Sword
+
+Nobunaga wins!

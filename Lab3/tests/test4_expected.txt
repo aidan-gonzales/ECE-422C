@@ -1,0 +1,7 @@
+space_station> space_station> space_station> space_station> space_station> space_station> 5 Commanders
+Average Number of Fights: 0.0
+space_station> 3 Engineers
+Average Number of Heals: 0.0
+space_station> 155 PowerCells
+Average Energy: 102.90322580645162
+space_station> 

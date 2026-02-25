@@ -1,0 +1,10 @@
+space_station> space_station> space_station> space_station> error processing: make InvalidThing
+space_station> error processing: make powercell
+space_station> space_station> 13 PowerCells
+Average Energy: 100.0
+space_station> 5 MaintenanceBots
+Straight: 12.5%
+Right: 37.5%
+Back: 12.5%
+Left: 37.5%
+space_station> 

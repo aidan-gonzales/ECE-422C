@@ -1,0 +1,2 @@
+Nobunaga,50,25,100
+Dojo,Training Dummy,10,1,10,0,Wooden Sword,0,1,0

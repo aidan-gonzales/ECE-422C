@@ -1,0 +1,22 @@
+       Welcome to Shogun's Challenge!
+       ------------------------------
+
+Hanzo starts with health: 100 speed: 50 attack: 15
+
+Chamber: Entrance Gate. Hanzo encounters a Shadow Demon
+    Shadow Demon - health: 30 speed: 30 attack: 5 speed damage: 5
+Hanzo attacks Shadow Demon, causing 15 damage.
+Shadow Demon attacks Hanzo, causing 5 damage.
+Hanzo attacks Shadow Demon, causing 15 damage.
+Shadow Demon is defeated!
+Hanzo finds Naginata
+
+Chamber: Garden Path. Hanzo encounters a River Spirit
+    River Spirit - health: 25 speed: 40 attack: 8 speed damage: 10
+Hanzo attacks River Spirit, causing 20 damage.
+River Spirit attacks Hanzo, causing 8 damage.
+Hanzo attacks River Spirit, causing 20 damage.
+River Spirit is defeated!
+Hanzo finds Healing Herb
+
+Hanzo wins!
