@@ -1,0 +1,10 @@
+seed 143
+make PowerCell 50
+make MaintenanceBot 50
+make Engineer 50
+make Commander 50
+step 25000
+stats MaintenanceBot
+stats Engineer
+stats Commander
+quit
