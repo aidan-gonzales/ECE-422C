@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba4d4a3a-ad27-41e0-8889-5b297c19ae1a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab3/Entity$TestEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Entity$TestEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Commander.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Commander.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Header.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Header.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/InvalidEntityException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/InvalidEntityException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/MaintenanceBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/MaintenanceBot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/Params.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/Params.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/Space_Station_Simulation/PowerCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/PowerCell.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3ABtHILRHRfGvOMPscl2wgPGPhP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/UT Courses/Spring 2026/ECE-422C/new zip"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba4d4a3a-ad27-41e0-8889-5b297c19ae1a" name="Changes" comment="" />
+      <created>1772077701236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772077701236</updated>
+    </task>
+    <servers />
+  </component>
+</project>
