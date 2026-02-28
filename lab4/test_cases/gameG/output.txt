@@ -1,0 +1,177 @@
+Welcome to Battleship. Here are the rules.
+
+This is a text version of the classic board game Battleship.
+
+The computer will secretly place a fleet of ships on a 10x10 grid.
+The fleet consists of:
+  Carrier (5 cells)
+  Battleship (4 cells)
+  Cruiser (3 cells)
+  Submarine (3 cells)
+  Destroyer (2 cells)
+
+You try to sink all the ships by firing shots at grid coordinates.
+Enter coordinates as a letter (row) followed by a number (column),
+for example: A5, C10, J1.
+Rows are labeled A-J and columns are labeled 1-10.
+
+After each shot, the result will be displayed as a Hit or Miss.
+When all cells of a ship are hit, it sinks and you are notified.
+
+You have 50 shots to sink the entire fleet or you lose.
+Type BOARD to see your current board, FLEET to see ship status,
+HISTORY to see your shot history, HELP to see available commands,
+or QUIT to forfeit the current game.
+
+Are you ready to play? (Y/N):
+
+Deploying ships ...
+(TEST MODE) Ship positions:
+    1  2  3  4  5  6  7  8  9 10
+A   S  ~  S  ~  S  ~  S  ~  S  ~
+B   S  ~  S  ~  S  ~  S  ~  S  ~
+C   S  ~  S  ~  S  ~  S  ~  ~  ~
+D   S  ~  S  ~  ~  ~  ~  ~  ~  ~
+E   S  ~  ~  ~  ~  ~  ~  ~  ~  ~
+F   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+G   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+H   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+I   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+J   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+
+You have 50 shots remaining. 5 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+A1 -> Hit!
+
+You have 49 shots remaining. 5 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+B1 -> Hit!
+
+You have 48 shots remaining. 5 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+C1 -> Hit!
+
+You have 47 shots remaining. 5 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+D1 -> Hit!
+
+You have 46 shots remaining. 5 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+E1 -> Hit! You sunk the Carrier!
+
+You have 45 shots remaining. 4 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+  Carrier (5): SUNK
+  Battleship (4): afloat
+  Cruiser (3): afloat
+  Submarine (3): afloat
+  Destroyer (2): afloat
+
+You have 45 shots remaining. 4 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+A3 -> Hit!
+
+You have 44 shots remaining. 4 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+B3 -> Hit!
+
+You have 43 shots remaining. 4 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+C3 -> Hit!
+
+You have 42 shots remaining. 4 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+D3 -> Hit! You sunk the Battleship!
+
+You have 41 shots remaining. 3 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+  Carrier (5): SUNK
+  Battleship (4): SUNK
+  Cruiser (3): afloat
+  Submarine (3): afloat
+  Destroyer (2): afloat
+
+You have 41 shots remaining. 3 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+A5 -> Hit!
+
+You have 40 shots remaining. 3 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+B5 -> Hit!
+
+You have 39 shots remaining. 3 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+C5 -> Hit! You sunk the Cruiser!
+
+You have 38 shots remaining. 2 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+  Carrier (5): SUNK
+  Battleship (4): SUNK
+  Cruiser (3): SUNK
+  Submarine (3): afloat
+  Destroyer (2): afloat
+
+You have 38 shots remaining. 2 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+A7 -> Hit!
+
+You have 37 shots remaining. 2 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+B7 -> Hit!
+
+You have 36 shots remaining. 2 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+C7 -> Hit! You sunk the Submarine!
+
+You have 35 shots remaining. 1 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+  Carrier (5): SUNK
+  Battleship (4): SUNK
+  Cruiser (3): SUNK
+  Submarine (3): SUNK
+  Destroyer (2): afloat
+
+You have 35 shots remaining. 1 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+A9 -> Hit!
+
+You have 34 shots remaining. 1 ships afloat.
+Enter target coordinate (e.g., A5): 
+Fire at: 
+B9 -> Hit! You sunk the Destroyer!
+
+All ships sunk! You win in 17 shots!
+
+    1  2  3  4  5  6  7  8  9 10
+A   X  ~  X  ~  X  ~  X  ~  X  ~
+B   X  ~  X  ~  X  ~  X  ~  X  ~
+C   X  ~  X  ~  X  ~  X  ~  ~  ~
+D   X  ~  X  ~  ~  ~  ~  ~  ~  ~
+E   X  ~  ~  ~  ~  ~  ~  ~  ~  ~
+F   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+G   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+H   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+I   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+J   ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
+
+Are you ready for another game (Y/N): 

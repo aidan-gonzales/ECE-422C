@@ -1,0 +1,27 @@
+Welcome to Battleship. Here are the rules.
+
+This is a text version of the classic board game Battleship.
+
+The computer will secretly place a fleet of ships on a 10x10 grid.
+The fleet consists of:
+  Carrier (5 cells)
+  Battleship (4 cells)
+  Cruiser (3 cells)
+  Submarine (3 cells)
+  Destroyer (2 cells)
+
+You try to sink all the ships by firing shots at grid coordinates.
+Enter coordinates as a letter (row) followed by a number (column),
+for example: A5, C10, J1.
+Rows are labeled A-J and columns are labeled 1-10.
+
+After each shot, the result will be displayed as a Hit or Miss.
+When all cells of a ship are hit, it sinks and you are notified.
+
+You have 50 shots to sink the entire fleet or you lose.
+Type BOARD to see your current board, FLEET to see ship status,
+HISTORY to see your shot history, HELP to see available commands,
+or QUIT to forfeit the current game.
+
+Are you ready to play? (Y/N):
+

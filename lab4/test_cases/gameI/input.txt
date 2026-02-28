@@ -1,0 +1,12 @@
+Y
+0 0 H
+2 0 H
+4 0 H
+6 0 H
+8 0 H
+HELP
+A1
+A2
+A3
+QUIT
+N
