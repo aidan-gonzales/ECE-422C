@@ -1,9 +1,3 @@
-/*  ECE422C Battleship submission by
- * Aidan Gonzales
- * AGG3498
- * Spring 2026
- */
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -29,11 +23,6 @@ import java.util.Scanner;
  */
 public class ShipPlacementGenerator {
     private static ShipPlacementGenerator instance = new ShipPlacementGenerator();
-
-    /**
-     * returns the shipPlacementGenerator instance that is created within this class
-     * @return the shipPlacementGenerator instance
-     */
     public static ShipPlacementGenerator getInstance() { return instance; }
 
     private Random random;
@@ -125,27 +114,10 @@ public class ShipPlacementGenerator {
      * Container for ship placement results.
      */
     public static class ShipPlacements {
-        /**
-         * the board to be generated
-         */
         public final char[][] board;
-
-        /**
-         * The rows of the ships to be generated
-         */
         public final int[][] shipRows;  // shipRows[i][j] = row of j-th cell of ship i
-
-        /**
-         * The columns of the ships to be generated
-         */
         public final int[][] shipCols;  // shipCols[i][j] = col of j-th cell of ship i
 
-        /**
-         * Creates the ship placements object
-         * @param board Board to be copied to the new object
-         * @param shipRows Rows of the ships to be copied to the new object
-         * @param shipCols Columns of the ships to be copied to the new object
-         */
         public ShipPlacements(char[][] board, int[][] shipRows, int[][] shipCols) {
             this.board = board;
             this.shipRows = shipRows;
